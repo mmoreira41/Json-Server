@@ -1,0 +1,16 @@
+{
+    "name": "json-server-heroku",
+    "version": "1.0.0",
+    "description": "A simple project for json-server",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "json-server": "^0.16.3"
+    },
+    "engines": {
+      "node": "14.x"
+    }
+  }
+  
